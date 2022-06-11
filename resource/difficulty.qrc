@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>4.png</file>
+    <file>6.png</file>
+    <file>difficulty.png</file>
+    <file>easy.png</file>
+    <file>hard.png</file>
+    <file>normal.png</file>
+    <file>one.png</file>
+    <file>player.png</file>
+    <file>Ready.png</file>
+  </qresource>
+</RCC>
